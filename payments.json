@@ -1,0 +1,54 @@
+[
+  {
+    "_id": "6568743c8784122d7881c46b",
+    "email": "jerinorpa@gmail.com",
+    "buyerName": "Jerin Orpa",
+    "propertyTitle": "Rustic Countryside Estate",
+    "location": "Rural Retreat",
+    "agentEmail": "agent@agent.com",
+    "price": "14000",
+    "transactionId": "pi_3OI8ZRBqiSSfcBmD2kjd37v0",
+    "date": "November 30th 2023",
+    "amountIds": "6568740f5f3652c180cf099f",
+    "status": "pending"
+  },
+  {
+    "_id": "6568b726fd7be787271250ec",
+    "email": "jerinorpa@gmail.com",
+    "buyerName": "Jerin Orpa",
+    "propertyTitle": "Luxury Beachfront Villa",
+    "location": "Coastal Paradise",
+    "agentEmail": "agent@agent.com",
+    "price": "7000",
+    "transactionId": "pi_3OID1dBqiSSfcBmD3wwjfo1V",
+    "date": "November 30th 2023",
+    "amountIds": "6568b6e7fd7be787271250eb",
+    "status": "pending"
+  },
+  {
+    "_id": "656a5d0238f9edd3f662b3c0",
+    "email": "mirjakariya239@gmail.com",
+    "buyerName": "Mir Jakariya",
+    "propertyTitle": "asdfasdf",
+    "location": "asdfasdf",
+    "agentEmail": "agent@agent.com",
+    "price": "100",
+    "transactionId": "pi_3OIf7mBqiSSfcBmD2xo3PVAS",
+    "date": "December 2nd 2023",
+    "amountIds": "656a5c8338f9edd3f662b3bd",
+    "status": "pending"
+  },
+  {
+    "_id": "65fdae8b48ce129bee2797c7",
+    "email": "agent@agent.com",
+    "buyerName": "Agent",
+    "propertyTitle": "Scenic Mountain Retreat",
+    "location": "Mountain Valley",
+    "agentEmail": "agent2@agent.com",
+    "price": "8000",
+    "transactionId": "pi_3OxAjsBqiSSfcBmD2aDnNFfG",
+    "date": "March 22nd 2024",
+    "amountIds": "65fdae2648ce129bee2797c6",
+    "status": "pending"
+  }
+]
