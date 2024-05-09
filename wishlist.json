@@ -1,0 +1,842 @@
+[
+  {
+    "_id": "6567596a820d5345d682357d",
+    "userEmail": "jerinorpa@gmail.com",
+    "property": {
+      "_id": "6567531d820d5345d6823570",
+      "propertyTitle": "Luxury Beachfront Villa",
+      "minPriceRange": "5000",
+      "maxPriceRange": "7500",
+      "location": "Coastal Paradise",
+      "propertyImage": "https://i.ibb.co/P4cs7KM/p-1.png",
+      "description": "Exquisite beachfront villa with breathtaking ocean views and premium amenities. Experience luxury living by the sea.",
+      "status": "Verified",
+      "agentName": "Agent",
+      "agentImage": "https://i.ibb.co/QPr1h8L/agent2.jpg",
+      "email": "agent@agent.com",
+      "role": "agent"
+    }
+  },
+  {
+    "_id": "656759a3820d5345d682357e",
+    "userEmail": "jerinorpa@gmail.com",
+    "property": {
+      "_id": "656755d8820d5345d6823574",
+      "propertyTitle": "Elegant Suburban Mansion",
+      "minPriceRange": "15000",
+      "maxPriceRange": "20000",
+      "location": "Exclusive Estates",
+      "propertyImage": "https://i.ibb.co/bXGRgXg/p-4.png",
+      "description": "Indulge in luxury with this elegant mansion in an exclusive suburban neighborhood. Spacious interiors and premium finishes await.",
+      "status": "Verified",
+      "agentName": "Agent 2",
+      "agentImage": "https://i.ibb.co/BNSyh93/agent4.jpg",
+      "email": "agent2@agent.com",
+      "role": "agent"
+    }
+  },
+  {
+    "_id": "656759b0820d5345d682357f",
+    "userEmail": "jerinorpa@gmail.com",
+    "property": {
+      "_id": "656755ac820d5345d6823573",
+      "propertyTitle": "Scenic Mountain Retreat",
+      "minPriceRange": "8000",
+      "maxPriceRange": "9000",
+      "location": "Mountain Valley",
+      "propertyImage": "https://i.ibb.co/thQwRtR/p-3.png",
+      "description": "Escape to a peaceful mountain retreat surrounded by nature. This property offers tranquility and stunning mountain views.",
+      "status": "Verified",
+      "agentName": "Agent 2",
+      "agentImage": "https://i.ibb.co/BNSyh93/agent4.jpg",
+      "email": "agent2@agent.com",
+      "role": "agent"
+    }
+  },
+  {
+    "_id": "656759bd820d5345d6823580",
+    "userEmail": "jerinorpa@gmail.com",
+    "property": {
+      "_id": "6567560d820d5345d6823575",
+      "propertyTitle": "Rustic Countryside Estate",
+      "minPriceRange": "12000",
+      "maxPriceRange": "15000",
+      "location": "Rural Retreat",
+      "propertyImage": "https://i.ibb.co/PC3qbnP/p-5.png",
+      "description": "Experience the charm of rural living in this rustic countryside estate. Surrounded by picturesque landscapes.",
+      "status": "Verified",
+      "agentName": "Agent",
+      "agentImage": "https://i.ibb.co/QPr1h8L/agent2.jpg",
+      "email": "agent@agent.com",
+      "role": "agent"
+    }
+  },
+  {
+    "_id": "65675f0c820d5345d6823590",
+    "userEmail": "ismatjerrin3@gmail.com",
+    "property": {
+      "_id": "6567531d820d5345d6823570",
+      "propertyTitle": "Luxury Beachfront Villa",
+      "minPriceRange": "5000",
+      "maxPriceRange": "7500",
+      "location": "Coastal Paradise",
+      "propertyImage": "https://i.ibb.co/P4cs7KM/p-1.png",
+      "description": "Exquisite beachfront villa with breathtaking ocean views and premium amenities. Experience luxury living by the sea.",
+      "status": "Verified",
+      "agentName": "Agent",
+      "agentImage": "https://i.ibb.co/QPr1h8L/agent2.jpg",
+      "email": "agent@agent.com",
+      "role": "agent"
+    }
+  },
+  {
+    "_id": "65675f16820d5345d6823591",
+    "userEmail": "ismatjerrin3@gmail.com",
+    "property": {
+      "_id": "656755d8820d5345d6823574",
+      "propertyTitle": "Elegant Suburban Mansion",
+      "minPriceRange": "15000",
+      "maxPriceRange": "20000",
+      "location": "Exclusive Estates",
+      "propertyImage": "https://i.ibb.co/bXGRgXg/p-4.png",
+      "description": "Indulge in luxury with this elegant mansion in an exclusive suburban neighborhood. Spacious interiors and premium finishes await.",
+      "status": "Verified",
+      "agentName": "Agent 2",
+      "agentImage": "https://i.ibb.co/BNSyh93/agent4.jpg",
+      "email": "agent2@agent.com",
+      "role": "agent"
+    }
+  },
+  {
+    "_id": "65675fa0820d5345d6823594",
+    "userEmail": "ismatjerrin3@gmail.com",
+    "property": {
+      "_id": "656755ac820d5345d6823573",
+      "propertyTitle": "Scenic Mountain Retreat",
+      "minPriceRange": "8000",
+      "maxPriceRange": "9000",
+      "location": "Mountain Valley",
+      "propertyImage": "https://i.ibb.co/thQwRtR/p-3.png",
+      "description": "Escape to a peaceful mountain retreat surrounded by nature. This property offers tranquility and stunning mountain views.",
+      "status": "Verified",
+      "agentName": "Agent 2",
+      "agentImage": "https://i.ibb.co/BNSyh93/agent4.jpg",
+      "email": "agent2@agent.com",
+      "role": "agent"
+    }
+  },
+  {
+    "_id": "656848ee67b2da3074c40951",
+    "userEmail": "jerinorpa@gmail.com",
+    "property": {
+      "_id": "6567531d820d5345d6823570",
+      "propertyTitle": "Luxury Beachfront Villa",
+      "minPriceRange": "5000",
+      "maxPriceRange": "7500",
+      "location": "Coastal Paradise",
+      "propertyImage": "https://i.ibb.co/P4cs7KM/p-1.png",
+      "description": "Exquisite beachfront villa with breathtaking ocean views and premium amenities. Experience luxury living by the sea.",
+      "status": "Verified",
+      "agentName": "Agent",
+      "agentImage": "https://i.ibb.co/QPr1h8L/agent2.jpg",
+      "email": "agent@agent.com",
+      "role": "agent"
+    }
+  },
+  {
+    "_id": "6568500a10dcbed15f5861eb",
+    "userEmail": "jerinorpa@gmail.com",
+    "property": {
+      "_id": "656755d8820d5345d6823574",
+      "propertyTitle": "Elegant Suburban Mansion",
+      "minPriceRange": "15000",
+      "maxPriceRange": "20000",
+      "location": "Exclusive Estates",
+      "propertyImage": "https://i.ibb.co/bXGRgXg/p-4.png",
+      "description": "Indulge in luxury with this elegant mansion in an exclusive suburban neighborhood. Spacious interiors and premium finishes await.",
+      "status": "Verified",
+      "agentName": "Agent 2",
+      "agentImage": "https://i.ibb.co/BNSyh93/agent4.jpg",
+      "email": "agent2@agent.com",
+      "role": "agent"
+    }
+  },
+  {
+    "_id": "656871689b3fb21b66e1ed9f",
+    "userEmail": "jerinorpa@gmail.com",
+    "property": {
+      "_id": "6567560d820d5345d6823575",
+      "propertyTitle": "Rustic Countryside Estate",
+      "minPriceRange": "12000",
+      "maxPriceRange": "15000",
+      "location": "Rural Retreat",
+      "propertyImage": "https://i.ibb.co/PC3qbnP/p-5.png",
+      "description": "Experience the charm of rural living in this rustic countryside estate. Surrounded by picturesque landscapes.",
+      "status": "Verified",
+      "agentName": "Agent",
+      "agentImage": "https://i.ibb.co/QPr1h8L/agent2.jpg",
+      "email": "agent@agent.com",
+      "role": "agent"
+    }
+  },
+  {
+    "_id": "6568b545fd7be787271250e6",
+    "userEmail": "agent@agent.com",
+    "property": {
+      "_id": "6567531d820d5345d6823570",
+      "propertyTitle": "Luxury Beachfront Villa",
+      "minPriceRange": "5000",
+      "maxPriceRange": "7500",
+      "location": "Coastal Paradise",
+      "propertyImage": "https://i.ibb.co/P4cs7KM/p-1.png",
+      "description": "Exquisite beachfront villa with breathtaking ocean views and premium amenities. Experience luxury living by the sea.",
+      "status": "Verified",
+      "agentName": "Agent",
+      "agentImage": "https://i.ibb.co/QPr1h8L/agent2.jpg",
+      "email": "agent@agent.com",
+      "role": "agent"
+    }
+  },
+  {
+    "_id": "6568b665fd7be787271250e7",
+    "userEmail": "jerinorpa@gmail.com",
+    "property": {
+      "_id": "6567563c820d5345d6823576",
+      "propertyTitle": "Urban Penthouse with Skyline Views",
+      "minPriceRange": "22000",
+      "maxPriceRange": "25000",
+      "location": "Metropolitan Heights",
+      "propertyImage": "https://i.ibb.co/T2P23c7/p-6.png",
+      "description": "Live in the lap of luxury with this stunning urban penthouse offering panoramic skyline views. Modern design meets sophistication.",
+      "status": "Verified",
+      "agentName": "Agent",
+      "agentImage": "https://i.ibb.co/QPr1h8L/agent2.jpg",
+      "email": "agent@agent.com",
+      "role": "agent"
+    }
+  },
+  {
+    "_id": "6568b673fd7be787271250e8",
+    "userEmail": "jerinorpa@gmail.com",
+    "property": {
+      "_id": "6567575f820d5345d682357c",
+      "propertyTitle": "Tranquil Forest Cabin",
+      "minPriceRange": "18000",
+      "maxPriceRange": "20000",
+      "location": "Enchanted Forests",
+      "propertyImage": "https://i.ibb.co/nBMKcZb/p-12.png",
+      "description": "Escape to nature with this tranquil forest cabin. Surrounded by lush woods, it provides the perfect retreat bustle of city life.",
+      "status": "Verified",
+      "agentName": "Agent",
+      "agentImage": "https://i.ibb.co/QPr1h8L/agent2.jpg",
+      "email": "agent@agent.com",
+      "role": "agent"
+    }
+  },
+  {
+    "_id": "6569c4242fcd22504b467e4a",
+    "userEmail": "ismatjerinarpa@gmail.com",
+    "property": {
+      "_id": "6567531d820d5345d6823570",
+      "propertyTitle": "Luxury Beachfront Villa",
+      "minPriceRange": "6000",
+      "maxPriceRange": "8500",
+      "location": "Coastal Paradise",
+      "propertyImage": "https://i.ibb.co/P4cs7KM/p-1.png",
+      "description": "Exquisite beachfront villa with breathtaking ocean views and premium amenities. Experience luxury living by the sea.",
+      "status": "Verified",
+      "agentName": "Agent",
+      "agentImage": "https://i.ibb.co/QPr1h8L/agent2.jpg",
+      "email": "agent@agent.com",
+      "role": "agent",
+      "advertiseStatus": "Verified"
+    }
+  },
+  {
+    "_id": "656a5c7238f9edd3f662b3bc",
+    "userEmail": "mirjakariya239@gmail.com",
+    "property": {
+      "_id": "656a5ba338f9edd3f662b3bb",
+      "propertyTitle": "asdfasdf",
+      "minPriceRange": "100",
+      "maxPriceRange": "200",
+      "location": "asdfasdf",
+      "propertyImage": "asdfasdf",
+      "description": "asdfadf",
+      "status": "Verified",
+      "agentName": "Agent",
+      "agentImage": "https://i.ibb.co/QPr1h8L/agent2.jpg",
+      "email": "agent@agent.com",
+      "role": "agent"
+    }
+  },
+  {
+    "_id": "656a5c9e38f9edd3f662b3be",
+    "userEmail": "jakariya96.ph@gmail.com",
+    "property": {
+      "_id": "656a5ba338f9edd3f662b3bb",
+      "propertyTitle": "asdfasdf",
+      "minPriceRange": "100",
+      "maxPriceRange": "200",
+      "location": "asdfasdf",
+      "propertyImage": "asdfasdf",
+      "description": "asdfadf",
+      "status": "Verified",
+      "agentName": "Agent",
+      "agentImage": "https://i.ibb.co/QPr1h8L/agent2.jpg",
+      "email": "agent@agent.com",
+      "role": "agent"
+    }
+  },
+  {
+    "_id": "65931fecbcc23f028a16902f",
+    "userEmail": "samuelayo61@gmail.com",
+    "property": {
+      "_id": "656755ac820d5345d6823573",
+      "propertyTitle": "Scenic Mountain Retreat",
+      "minPriceRange": "8000",
+      "maxPriceRange": "9000",
+      "location": "Mountain Valley",
+      "propertyImage": "https://i.ibb.co/thQwRtR/p-3.png",
+      "description": "Escape to a peaceful mountain retreat surrounded by nature. This property offers tranquility and stunning mountain views.",
+      "status": "Verified",
+      "agentName": "Agent 2",
+      "agentImage": "https://i.ibb.co/BNSyh93/agent4.jpg",
+      "email": "agent2@agent.com",
+      "role": "agent",
+      "advertiseStatus": "Verified"
+    }
+  },
+  {
+    "_id": "659611cc814c611fcc5c7d24",
+    "userEmail": "samayomide61@gmail.com",
+    "property": {
+      "_id": "656755d8820d5345d6823574",
+      "propertyTitle": "Elegant Suburban Mansion",
+      "minPriceRange": "15000",
+      "maxPriceRange": "20000",
+      "location": "Exclusive Estates",
+      "propertyImage": "https://i.ibb.co/bXGRgXg/p-4.png",
+      "description": "Indulge in luxury with this elegant mansion in an exclusive suburban neighborhood. Spacious interiors and premium finishes await.",
+      "status": "Verified",
+      "agentName": "Agent 2",
+      "agentImage": "https://i.ibb.co/BNSyh93/agent4.jpg",
+      "email": "agent2@agent.com",
+      "role": "agent",
+      "advertiseStatus": "Verified"
+    }
+  },
+  {
+    "_id": "659cfd6bc6a042531bbe64ad",
+    "userEmail": "goeltanush051@gmail.com",
+    "property": {
+      "_id": "656755d8820d5345d6823574",
+      "propertyTitle": "Elegant Suburban Mansion",
+      "minPriceRange": "15000",
+      "maxPriceRange": "20000",
+      "location": "Exclusive Estates",
+      "propertyImage": "https://i.ibb.co/bXGRgXg/p-4.png",
+      "description": "Indulge in luxury with this elegant mansion in an exclusive suburban neighborhood. Spacious interiors and premium finishes await.",
+      "status": "Verified",
+      "agentName": "Agent 2",
+      "agentImage": "https://i.ibb.co/BNSyh93/agent4.jpg",
+      "email": "agent2@agent.com",
+      "role": "agent",
+      "advertiseStatus": "Verified"
+    }
+  },
+  {
+    "_id": "65a3ee87a814fe75b8fdbdb4",
+    "userEmail": "tudeptraiphet@gmail.com",
+    "property": {
+      "_id": "656755ac820d5345d6823573",
+      "propertyTitle": "Scenic Mountain Retreat",
+      "minPriceRange": "8000",
+      "maxPriceRange": "9000",
+      "location": "Mountain Valley",
+      "propertyImage": "https://i.ibb.co/thQwRtR/p-3.png",
+      "description": "Escape to a peaceful mountain retreat surrounded by nature. This property offers tranquility and stunning mountain views.",
+      "status": "Verified",
+      "agentName": "Agent 2",
+      "agentImage": "https://i.ibb.co/BNSyh93/agent4.jpg",
+      "email": "agent2@agent.com",
+      "role": "agent",
+      "advertiseStatus": "Verified"
+    }
+  },
+  {
+    "_id": "65bc1a54f437f11a0773da6a",
+    "userEmail": "felixashong4@gmail.com",
+    "property": {
+      "_id": "656755d8820d5345d6823574",
+      "propertyTitle": "Elegant Suburban Mansion",
+      "minPriceRange": "15000",
+      "maxPriceRange": "20000",
+      "location": "Exclusive Estates",
+      "propertyImage": "https://i.ibb.co/bXGRgXg/p-4.png",
+      "description": "Indulge in luxury with this elegant mansion in an exclusive suburban neighborhood. Spacious interiors and premium finishes await.",
+      "status": "Verified",
+      "agentName": "Agent 2",
+      "agentImage": "https://i.ibb.co/BNSyh93/agent4.jpg",
+      "email": "agent2@agent.com",
+      "role": "agent",
+      "advertiseStatus": "Verified"
+    }
+  },
+  {
+    "_id": "65bc1a54f437f11a0773da6b",
+    "userEmail": "felixashong4@gmail.com",
+    "property": {
+      "_id": "656755d8820d5345d6823574",
+      "propertyTitle": "Elegant Suburban Mansion",
+      "minPriceRange": "15000",
+      "maxPriceRange": "20000",
+      "location": "Exclusive Estates",
+      "propertyImage": "https://i.ibb.co/bXGRgXg/p-4.png",
+      "description": "Indulge in luxury with this elegant mansion in an exclusive suburban neighborhood. Spacious interiors and premium finishes await.",
+      "status": "Verified",
+      "agentName": "Agent 2",
+      "agentImage": "https://i.ibb.co/BNSyh93/agent4.jpg",
+      "email": "agent2@agent.com",
+      "role": "agent",
+      "advertiseStatus": "Verified"
+    }
+  },
+  {
+    "_id": "65bc1a66f437f11a0773da6c",
+    "userEmail": "felixashong4@gmail.com",
+    "property": {
+      "_id": "656755d8820d5345d6823574",
+      "propertyTitle": "Elegant Suburban Mansion",
+      "minPriceRange": "15000",
+      "maxPriceRange": "20000",
+      "location": "Exclusive Estates",
+      "propertyImage": "https://i.ibb.co/bXGRgXg/p-4.png",
+      "description": "Indulge in luxury with this elegant mansion in an exclusive suburban neighborhood. Spacious interiors and premium finishes await.",
+      "status": "Verified",
+      "agentName": "Agent 2",
+      "agentImage": "https://i.ibb.co/BNSyh93/agent4.jpg",
+      "email": "agent2@agent.com",
+      "role": "agent",
+      "advertiseStatus": "Verified"
+    }
+  },
+  {
+    "_id": "65c4b5c8efbfcf79170d1ea1",
+    "userEmail": "apnividya.com@gmail.com",
+    "property": {
+      "_id": "656755d8820d5345d6823574",
+      "propertyTitle": "Elegant Suburban Mansion",
+      "minPriceRange": "15000",
+      "maxPriceRange": "20000",
+      "location": "Exclusive Estates",
+      "propertyImage": "https://i.ibb.co/bXGRgXg/p-4.png",
+      "description": "Indulge in luxury with this elegant mansion in an exclusive suburban neighborhood. Spacious interiors and premium finishes await.",
+      "status": "Verified",
+      "agentName": "Agent 2",
+      "agentImage": "https://i.ibb.co/BNSyh93/agent4.jpg",
+      "email": "agent2@agent.com",
+      "role": "agent",
+      "advertiseStatus": "Verified"
+    }
+  },
+  {
+    "_id": "65ccf1303d94e051a3b55f7f",
+    "userEmail": "ayushmaliktesting@gmail.com",
+    "property": {
+      "_id": "656755d8820d5345d6823574",
+      "propertyTitle": "Elegant Suburban Mansion",
+      "minPriceRange": "15000",
+      "maxPriceRange": "20000",
+      "location": "Exclusive Estates",
+      "propertyImage": "https://i.ibb.co/bXGRgXg/p-4.png",
+      "description": "Indulge in luxury with this elegant mansion in an exclusive suburban neighborhood. Spacious interiors and premium finishes await.",
+      "status": "Verified",
+      "agentName": "Agent 2",
+      "agentImage": "https://i.ibb.co/BNSyh93/agent4.jpg",
+      "email": "agent2@agent.com",
+      "role": "agent",
+      "advertiseStatus": "Verified"
+    }
+  },
+  {
+    "_id": "65d2bb4cf67a3fe4da3a7574",
+    "userEmail": "jahidhasan21cse@gmail.com",
+    "property": {
+      "_id": "656755d8820d5345d6823574",
+      "propertyTitle": "Elegant Suburban Mansion",
+      "minPriceRange": "15000",
+      "maxPriceRange": "20000",
+      "location": "Exclusive Estates",
+      "propertyImage": "https://i.ibb.co/bXGRgXg/p-4.png",
+      "description": "Indulge in luxury with this elegant mansion in an exclusive suburban neighborhood. Spacious interiors and premium finishes await.",
+      "status": "Verified",
+      "agentName": "Agent 2",
+      "agentImage": "https://i.ibb.co/BNSyh93/agent4.jpg",
+      "email": "agent2@agent.com",
+      "role": "agent",
+      "advertiseStatus": "Verified"
+    }
+  },
+  {
+    "_id": "65ddf41b1e86db70ff3252f4",
+    "userEmail": "mojigaming56@gmail.com",
+    "property": {
+      "_id": "656755ac820d5345d6823573",
+      "propertyTitle": "Scenic Mountain Retreat",
+      "minPriceRange": "8000",
+      "maxPriceRange": "9000",
+      "location": "Mountain Valley",
+      "propertyImage": "https://i.ibb.co/thQwRtR/p-3.png",
+      "description": "Escape to a peaceful mountain retreat surrounded by nature. This property offers tranquility and stunning mountain views.",
+      "status": "Verified",
+      "agentName": "Agent 2",
+      "agentImage": "https://i.ibb.co/BNSyh93/agent4.jpg",
+      "email": "agent2@agent.com",
+      "role": "agent",
+      "advertiseStatus": "Verified"
+    }
+  },
+  {
+    "_id": "65e1bcefc421b03a2aef6722",
+    "userEmail": "princedkabu1228@gmail.com",
+    "property": {
+      "_id": "656755d8820d5345d6823574",
+      "propertyTitle": "Elegant Suburban Mansion",
+      "minPriceRange": "15000",
+      "maxPriceRange": "20000",
+      "location": "Exclusive Estates",
+      "propertyImage": "https://i.ibb.co/bXGRgXg/p-4.png",
+      "description": "Indulge in luxury with this elegant mansion in an exclusive suburban neighborhood. Spacious interiors and premium finishes await.",
+      "status": "Verified",
+      "agentName": "Agent 2",
+      "agentImage": "https://i.ibb.co/BNSyh93/agent4.jpg",
+      "email": "agent2@agent.com",
+      "role": "agent",
+      "advertiseStatus": "Verified"
+    }
+  },
+  {
+    "_id": "65f68abe3fc35ad6216adf86",
+    "userEmail": "ismatjerrin333@gmail.com",
+    "property": {
+      "_id": "656755ac820d5345d6823573",
+      "propertyTitle": "Scenic Mountain Retreat",
+      "minPriceRange": "8000",
+      "maxPriceRange": "9000",
+      "location": "Mountain Valley",
+      "propertyImage": "https://i.ibb.co/thQwRtR/p-3.png",
+      "description": "Escape to a peaceful mountain retreat surrounded by nature. This property offers tranquility and stunning mountain views.",
+      "status": "Verified",
+      "agentName": "Agent 2",
+      "agentImage": "https://i.ibb.co/BNSyh93/agent4.jpg",
+      "email": "agent2@agent.com",
+      "role": "agent",
+      "advertiseStatus": "Verified"
+    }
+  },
+  {
+    "_id": "65fb3776e2bd39f64035e1bd",
+    "userEmail": "sajidpahat786@gmail.com",
+    "property": {
+      "_id": "656755ac820d5345d6823573",
+      "propertyTitle": "Scenic Mountain Retreat",
+      "minPriceRange": "8000",
+      "maxPriceRange": "9000",
+      "location": "Mountain Valley",
+      "propertyImage": "https://i.ibb.co/thQwRtR/p-3.png",
+      "description": "Escape to a peaceful mountain retreat surrounded by nature. This property offers tranquility and stunning mountain views.",
+      "status": "Verified",
+      "agentName": "Agent 2",
+      "agentImage": "https://i.ibb.co/BNSyh93/agent4.jpg",
+      "email": "agent2@agent.com",
+      "role": "agent",
+      "advertiseStatus": "Verified"
+    }
+  },
+  {
+    "_id": "65fdae157560fc8d8795d2ba",
+    "userEmail": "agent@agent.com",
+    "property": {
+      "_id": "656755ac820d5345d6823573",
+      "propertyTitle": "Scenic Mountain Retreat",
+      "minPriceRange": "8000",
+      "maxPriceRange": "9000",
+      "location": "Mountain Valley",
+      "propertyImage": "https://i.ibb.co/thQwRtR/p-3.png",
+      "description": "Escape to a peaceful mountain retreat surrounded by nature. This property offers tranquility and stunning mountain views.",
+      "status": "Verified",
+      "agentName": "Agent 2",
+      "agentImage": "https://i.ibb.co/BNSyh93/agent4.jpg",
+      "email": "agent2@agent.com",
+      "role": "agent",
+      "advertiseStatus": "Verified"
+    }
+  },
+  {
+    "_id": "6601bbdc7df6654ab5589a4f",
+    "userEmail": "ommthakkar@gmail.com",
+    "property": {
+      "_id": "656756d4820d5345d6823579",
+      "propertyTitle": "Contemporary City Loft",
+      "minPriceRange": "6000",
+      "maxPriceRange": "8000",
+      "location": "Downtown Hub",
+      "propertyImage": "https://i.ibb.co/b2Qv2pb/p-9.png",
+      "description": "Live in style with this contemporary city loft, boasting sleek design and urban sophistication. Ideal for who crave modern city living.",
+      "status": "Verified",
+      "agentName": "Agent 2",
+      "agentImage": "https://i.ibb.co/BNSyh93/agent4.jpg",
+      "email": "agent2@agent.com",
+      "role": "agent",
+      "advertiseStatus": "Verified"
+    }
+  },
+  {
+    "_id": "660cd93f05609c04ee9b9cde",
+    "userEmail": "a@gmail.com",
+    "property": {
+      "_id": "656755ac820d5345d6823573",
+      "propertyTitle": "Scenic Mountain Retreat",
+      "minPriceRange": "8000",
+      "maxPriceRange": "9000",
+      "location": "Mountain Valley",
+      "propertyImage": "https://i.ibb.co/thQwRtR/p-3.png",
+      "description": "Escape to a peaceful mountain retreat surrounded by nature. This property offers tranquility and stunning mountain views.",
+      "status": "Verified",
+      "agentName": "Agent 2",
+      "agentImage": "https://i.ibb.co/BNSyh93/agent4.jpg",
+      "email": "agent2@agent.com",
+      "role": "agent",
+      "advertiseStatus": "Verified"
+    }
+  },
+  {
+    "_id": "660fefa92c4c96020917cb1b",
+    "userEmail": "gurs2806@gmail.com",
+    "property": {
+      "_id": "656755d8820d5345d6823574",
+      "propertyTitle": "Elegant Suburban Mansion",
+      "minPriceRange": "15000",
+      "maxPriceRange": "20000",
+      "location": "Exclusive Estates",
+      "propertyImage": "https://i.ibb.co/bXGRgXg/p-4.png",
+      "description": "Indulge in luxury with this elegant mansion in an exclusive suburban neighborhood. Spacious interiors and premium finishes await.",
+      "status": "Verified",
+      "agentName": "Agent 2",
+      "agentImage": "https://i.ibb.co/BNSyh93/agent4.jpg",
+      "email": "agent2@agent.com",
+      "role": "agent",
+      "advertiseStatus": "Verified"
+    }
+  },
+  {
+    "_id": "6613c4e5abdf1f0f690c4bc7",
+    "userEmail": "danwebasga05@gmail.com",
+    "property": {
+      "_id": "656755ac820d5345d6823573",
+      "propertyTitle": "Scenic Mountain Retreat",
+      "minPriceRange": "8000",
+      "maxPriceRange": "9000",
+      "location": "Mountain Valley",
+      "propertyImage": "https://i.ibb.co/thQwRtR/p-3.png",
+      "description": "Escape to a peaceful mountain retreat surrounded by nature. This property offers tranquility and stunning mountain views.",
+      "status": "Verified",
+      "agentName": "Agent 2",
+      "agentImage": "https://i.ibb.co/BNSyh93/agent4.jpg",
+      "email": "agent2@agent.com",
+      "role": "agent",
+      "advertiseStatus": "Verified"
+    }
+  },
+  {
+    "_id": "6615d2222639e32df0cfcc22",
+    "userEmail": "1hk17cs057@hkbk.edu.in",
+    "property": {
+      "_id": "656755d8820d5345d6823574",
+      "propertyTitle": "Elegant Suburban Mansion",
+      "minPriceRange": "15000",
+      "maxPriceRange": "20000",
+      "location": "Exclusive Estates",
+      "propertyImage": "https://i.ibb.co/bXGRgXg/p-4.png",
+      "description": "Indulge in luxury with this elegant mansion in an exclusive suburban neighborhood. Spacious interiors and premium finishes await.",
+      "status": "Verified",
+      "agentName": "Agent 2",
+      "agentImage": "https://i.ibb.co/BNSyh93/agent4.jpg",
+      "email": "agent2@agent.com",
+      "role": "agent",
+      "advertiseStatus": "Verified"
+    }
+  },
+  {
+    "_id": "66169521292b5df3679ba7f5",
+    "userEmail": "akashsingh.x09@gmail.com",
+    "property": {
+      "_id": "656755d8820d5345d6823574",
+      "propertyTitle": "Elegant Suburban Mansion",
+      "minPriceRange": "15000",
+      "maxPriceRange": "20000",
+      "location": "Exclusive Estates",
+      "propertyImage": "https://i.ibb.co/bXGRgXg/p-4.png",
+      "description": "Indulge in luxury with this elegant mansion in an exclusive suburban neighborhood. Spacious interiors and premium finishes await.",
+      "status": "Verified",
+      "agentName": "Agent 2",
+      "agentImage": "https://i.ibb.co/BNSyh93/agent4.jpg",
+      "email": "agent2@agent.com",
+      "role": "agent",
+      "advertiseStatus": "Verified"
+    }
+  },
+  {
+    "_id": "6629fa798ff49c98e81b81a4",
+    "userEmail": "bhargav@vispansolutions.com",
+    "property": {
+      "_id": "656755d8820d5345d6823574",
+      "propertyTitle": "Elegant Suburban Mansion",
+      "minPriceRange": "15000",
+      "maxPriceRange": "20000",
+      "location": "Exclusive Estates",
+      "propertyImage": "https://i.ibb.co/bXGRgXg/p-4.png",
+      "description": "Indulge in luxury with this elegant mansion in an exclusive suburban neighborhood. Spacious interiors and premium finishes await.",
+      "status": "Verified",
+      "agentName": "Agent 2",
+      "agentImage": "https://i.ibb.co/BNSyh93/agent4.jpg",
+      "email": "agent2@agent.com",
+      "role": "agent",
+      "advertiseStatus": "Verified"
+    }
+  },
+  {
+    "_id": "662a1f36f898e138fbfb55ff",
+    "userEmail": "testdev717@gmail.com",
+    "property": {
+      "_id": "656755ac820d5345d6823573",
+      "propertyTitle": "Scenic Mountain Retreat",
+      "minPriceRange": "8000",
+      "maxPriceRange": "9000",
+      "location": "Mountain Valley",
+      "propertyImage": "https://i.ibb.co/thQwRtR/p-3.png",
+      "description": "Escape to a peaceful mountain retreat surrounded by nature. This property offers tranquility and stunning mountain views.",
+      "status": "Verified",
+      "agentName": "Agent 2",
+      "agentImage": "https://i.ibb.co/BNSyh93/agent4.jpg",
+      "email": "agent2@agent.com",
+      "role": "agent",
+      "advertiseStatus": "Verified"
+    }
+  },
+  {
+    "_id": "662a44c2349e5b68c63d2933",
+    "userEmail": "anvimalik04@gmail.com",
+    "property": {
+      "_id": "656755d8820d5345d6823574",
+      "propertyTitle": "Elegant Suburban Mansion",
+      "minPriceRange": "15000",
+      "maxPriceRange": "20000",
+      "location": "Exclusive Estates",
+      "propertyImage": "https://i.ibb.co/bXGRgXg/p-4.png",
+      "description": "Indulge in luxury with this elegant mansion in an exclusive suburban neighborhood. Spacious interiors and premium finishes await.",
+      "status": "Verified",
+      "agentName": "Agent 2",
+      "agentImage": "https://i.ibb.co/BNSyh93/agent4.jpg",
+      "email": "agent2@agent.com",
+      "role": "agent",
+      "advertiseStatus": "Verified"
+    }
+  },
+  {
+    "_id": "662a45cc564c16304a38b057",
+    "userEmail": "aasthaxx10@gmail.com",
+    "property": {
+      "_id": "656755d8820d5345d6823574",
+      "propertyTitle": "Elegant Suburban Mansion",
+      "minPriceRange": "15000",
+      "maxPriceRange": "20000",
+      "location": "Exclusive Estates",
+      "propertyImage": "https://i.ibb.co/bXGRgXg/p-4.png",
+      "description": "Indulge in luxury with this elegant mansion in an exclusive suburban neighborhood. Spacious interiors and premium finishes await.",
+      "status": "Verified",
+      "agentName": "Agent 2",
+      "agentImage": "https://i.ibb.co/BNSyh93/agent4.jpg",
+      "email": "agent2@agent.com",
+      "role": "agent",
+      "advertiseStatus": "Verified"
+    }
+  },
+  {
+    "_id": "662c93f9a4a8c48a5657e44a",
+    "userEmail": "divyarajc073@gmail.com",
+    "property": {
+      "_id": "656755ac820d5345d6823573",
+      "propertyTitle": "Scenic Mountain Retreat",
+      "minPriceRange": "8000",
+      "maxPriceRange": "9000",
+      "location": "Mountain Valley",
+      "propertyImage": "https://i.ibb.co/thQwRtR/p-3.png",
+      "description": "Escape to a peaceful mountain retreat surrounded by nature. This property offers tranquility and stunning mountain views.",
+      "status": "Verified",
+      "agentName": "Agent 2",
+      "agentImage": "https://i.ibb.co/BNSyh93/agent4.jpg",
+      "email": "agent2@agent.com",
+      "role": "agent",
+      "advertiseStatus": "Verified"
+    }
+  },
+  {
+    "_id": "662ea882b8aede9c1ec0ded6",
+    "userEmail": "rajputharsh0687@gmail.com",
+    "property": {
+      "_id": "656755d8820d5345d6823574",
+      "propertyTitle": "Elegant Suburban Mansion",
+      "minPriceRange": "15000",
+      "maxPriceRange": "20000",
+      "location": "Exclusive Estates",
+      "propertyImage": "https://i.ibb.co/bXGRgXg/p-4.png",
+      "description": "Indulge in luxury with this elegant mansion in an exclusive suburban neighborhood. Spacious interiors and premium finishes await.",
+      "status": "Verified",
+      "agentName": "Agent 2",
+      "agentImage": "https://i.ibb.co/BNSyh93/agent4.jpg",
+      "email": "agent2@agent.com",
+      "role": "agent",
+      "advertiseStatus": "Verified"
+    }
+  },
+  {
+    "_id": "662fdc960ca06756031e38b2",
+    "userEmail": "chrishanashara2@gmail.com",
+    "property": {
+      "_id": "656755d8820d5345d6823574",
+      "propertyTitle": "Elegant Suburban Mansion",
+      "minPriceRange": "15000",
+      "maxPriceRange": "20000",
+      "location": "Exclusive Estates",
+      "propertyImage": "https://i.ibb.co/bXGRgXg/p-4.png",
+      "description": "Indulge in luxury with this elegant mansion in an exclusive suburban neighborhood. Spacious interiors and premium finishes await.",
+      "status": "Verified",
+      "agentName": "Agent 2",
+      "agentImage": "https://i.ibb.co/BNSyh93/agent4.jpg",
+      "email": "agent2@agent.com",
+      "role": "agent",
+      "advertiseStatus": "Verified"
+    }
+  },
+  {
+    "_id": "6630e505aa08df383bcce397",
+    "userEmail": "gurpreetsehaj1005@gmail.com",
+    "property": {
+      "_id": "656755ac820d5345d6823573",
+      "propertyTitle": "Scenic Mountain Retreat",
+      "minPriceRange": "8000",
+      "maxPriceRange": "9000",
+      "location": "Mountain Valley",
+      "propertyImage": "https://i.ibb.co/thQwRtR/p-3.png",
+      "description": "Escape to a peaceful mountain retreat surrounded by nature. This property offers tranquility and stunning mountain views.",
+      "status": "Verified",
+      "agentName": "Agent 2",
+      "agentImage": "https://i.ibb.co/BNSyh93/agent4.jpg",
+      "email": "agent2@agent.com",
+      "role": "agent",
+      "advertiseStatus": "Verified"
+    }
+  }
+]
